@@ -1,0 +1,11 @@
+python-docx
+pypdf2
+fpdf
+streamlit
+docx2txt
+fpdf
+python-docx
+pywin32
+reportlab
+openai
+python-dotenv
